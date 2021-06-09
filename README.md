@@ -14,3 +14,5 @@ This PCB is capable of displaying any data (such as clock, date, stop watch, sen
 The LED Driver module utilises SPI communication protocol with the Arduino and hence you can see an SPI BUS (Blue colour in schematic).
 
 The RTC utilises I2C communication protocol with the Arduino as mentioned in its data-sheet for the DS1307 Integrated Chip.
+
+## TOP LAYER of the PCB ![alt text](https://github.com/gk147-pcb/LED-Display-EAGLE/blob/main/LED_DISPLAY_SHIELD_top.png/?raw=true)
