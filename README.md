@@ -16,3 +16,5 @@ The LED Driver module utilises SPI communication protocol with the Arduino and h
 The RTC utilises I2C communication protocol with the Arduino as mentioned in its data-sheet for the DS1307 Integrated Chip.
 
 ## TOP LAYER of the PCB ![alt text](https://github.com/gk147-pcb/LED-Display-EAGLE/blob/main/LED_DISPLAY_SHIELD_top.png/?raw=true)
+
+## BOTTOM LAYER of the PCB ![alt text](https://github.com/gk147-pcb/LED-Display-EAGLE/blob/main/LED_DISPLAY_SHIELD_bottom.png/?raw=true)
