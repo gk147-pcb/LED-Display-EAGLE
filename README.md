@@ -18,3 +18,5 @@ The RTC utilises I2C communication protocol with the Arduino as mentioned in its
 ## TOP LAYER of the PCB ![alt text](https://github.com/gk147-pcb/LED-Display-EAGLE/blob/main/LED_DISPLAY_SHIELD_top.png/?raw=true)
 
 ## BOTTOM LAYER of the PCB ![alt text](https://github.com/gk147-pcb/LED-Display-EAGLE/blob/main/LED_DISPLAY_SHIELD_bottom.png/?raw=true)
+
+## SCHEMATIC of the PCB ![alt text](https://github.com/gk147-pcb/LED-Display-EAGLE/blob/main/Arduino_LED_Display_Schematic.png/?raw=true)
