@@ -20,3 +20,5 @@ The RTC utilises I2C communication protocol with the Arduino as mentioned in its
 ## BOTTOM LAYER of the PCB ![alt text](https://github.com/gk147-pcb/LED-Display-EAGLE/blob/main/LED_DISPLAY_SHIELD_bottom.png/?raw=true)
 
 ## SCHEMATIC of the PCB ![alt text](https://github.com/gk147-pcb/LED-Display-EAGLE/blob/main/Arduino_LED_Display_Schematic.png/?raw=true)
+
+Here, we can see that the BOLD BLUE line in across the schematic is the SPI BUS interface needed for the communication between the LED Driver/LED Display and the Arduino. While the RTC uses I2C communication protocol to interface with the Arduino.
